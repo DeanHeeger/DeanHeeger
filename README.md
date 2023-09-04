@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeanHeeger
 - 👀 I’m interested in ALL THINGS TECH
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on any ideas
 - 📫 How to reach me:
 -     - email: dean.heeger@younglings.africa OR deanheeger17@gmail.com
